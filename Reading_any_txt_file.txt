@@ -1,0 +1,30 @@
+char choice;
+    long line=1,i=1;
+    /*clear screen before start showing the output*/
+    system("cls");
+
+/*open the two files and make the mode r mean that we will read only from them*/
+first=fopen("INPUT_1.txt","r");
+second=fopen("INPUT_2.txt","r");
+/*If there is no files in the same location exit the program*/
+  if(first==NULL)
+     {
+         printf("Can't find INPUT_1.txt\n");
+         printf("Do you want to read another text file instead of making INPUT_1?{Y/N}\n");
+         choice=getch();
+         if(choice=='y'||choice=='Y')
+         {
+             char *file_name=(char*)malloc(100*sizeof(char));
+             printf("Enter the name of the file and don't forget the extension-->Ex:mido.txt\n");
+             scanf("%s",file_name);
+
+             file_name=realloc(file_name,strlen(file_name)+1);
+             file_name[strlen(file_name)]='\0';
+             printf("%c",file_name[strlen(file_name)]);
+             first=fopen(file_name,"r");
+             if(first==NULL)
+                printf("EEROR");
+
+         }
+         system("pause");
+         //exit(1);

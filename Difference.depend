@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1671231868 source:g:\c\difference\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1670866319 source:g:\c\difference\resources.rc
+

@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/eof-and-feof-in-c/

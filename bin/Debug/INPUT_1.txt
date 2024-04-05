@@ -1,0 +1,22 @@
+Each student is required to write a computer program that computes the quality factor of a 
+specific rectangular cavity resonator at its first 2 resonances. The program takes the 
+conductivity of the waveguide metal, relative permittivity and loss tangent of filling material, 
+and the waveguide dimensions and gives out the resonance frequency, resonance bandwidth 
+and the quality factor of resonator at the first 2 resonances.
+You are required to submit a PDF document containing:
+1. Your code (I should be able to copy paste it for verification) + version of software used.
+2. The analytical calculations used to compute the values of resonance frequencies, 
+resonance bandwidths and quality factors for the first 2 resonance modes. Any necessary 
+clarification on your code should be written. Assume b<d<a in your code.
+It is important that the report is the result of the student’s individual work and meets the 
+faculty’s expectations of originality. 
+Grading:
+7% of the course marks.
+Submission:
+Format: A PDF file containing your name, section and BN attached to an email. 
+Deadline: Before 11:59 pm of December 4, 2021 (Late submission will be penalized).
+Submission email address: m.nasr@eng.cu.edu.eg.
+Title (Subject) of your email must exactly be: “ELC3050_2021_Assignment”.
+Please write your full name, section and BN in the email body as well as in the PDF.
+You will receive an automated reply that the email has been received.
+Please do not share your assignment on drive. Only email submission will be accepted.

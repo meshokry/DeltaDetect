@@ -1,0 +1,10 @@
+1)الزيادة في الفايل الثاني
+INPUT_1--->  MOKLN
+INPUT_2--->  MOKZLN
+2)النقصان في الفايل الثاني
+INPUT_1--->  MOKLNM
+INPUT_2--->  MOLNM
+3)غلط لا تطابق
+INPUT_1--->  MOKLN
+INPUT_2--->  MOZXC
+  
